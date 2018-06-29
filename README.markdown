@@ -1,4 +1,4 @@
-APP Android desenvolvido no curso Desenvolvimendo de Aplicações com Android da TriadWorks - AppEvento
+Aplicativo Android desenvolvido no curso Desenvolvimendo de Aplicações com Android - AppEvento
 =====================================================================================================
 
 
@@ -7,12 +7,8 @@ Listas, Câmera, Envio de arquivos, Recebimento, Formulários, CRUD, SQLLite, Ci
 
 ----------------------------------------
 
-A grade do curso pode ser vista em: http://cursos.triadworks.com.br/curso-android/.
-
-
 Mais informações
-----------------
+------------------
+Emanuel A. Gabriel
+https://emanuelgabriel.github.io
 
-**TriadWorks**
-- http://cursos.triadworks.com.br/
-- http://blog.triadworks.com.br
